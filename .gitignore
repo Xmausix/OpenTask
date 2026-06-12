@@ -1,0 +1,9 @@
+/ui/__pycache__
+.idea
+/backups
+/data
+data/projekt.json
+/data
+models/__pycache__/__init__.cpython-313.pyc
+/models/__pycache__
+/services/__pycache__

@@ -1,0 +1,5 @@
+{
+  "theme": "light",
+  "backup_minutes": 5,
+  "notifications": true
+}
